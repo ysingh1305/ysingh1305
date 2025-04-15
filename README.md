@@ -20,5 +20,5 @@ I'm a 19-year-old passionate about building tools that combine data, AI, and int
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="40" />
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rstudio/rstudio-original.svg" width="40" />
-<img src="https://raw.githubusercontent.com/explosion/spaCy/master/meta/icon/icon.svg" width="40" alt="spaCy" />
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/88/SpaCy_logo.svg/1200px-SpaCy_logo.svg.png" width="40" alt="spaCy" />
 <img src="https://raw.githubusercontent.com/hwchase17/langchain/master/docs/static/img/favicon.ico" width="40" alt="LangChain" />

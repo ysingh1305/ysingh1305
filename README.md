@@ -1,5 +1,5 @@
 # Hi, I'm Yash! 👋  
-I'm a 19-year-old passionate about building tools that combine data, AI, and intuitive design.
+I'm a 20-year-old passionate about building tools that combine data, AI, and intuitive design.
 
 ## 📌 What I've worked on:
 - 🧠 Deveoped [MegaMind](https://github.com/YOUR_USERNAME/MegaMind), an AI-powered app that transforms lecture audio into notes, quizzes, and progress dashboards.
